@@ -6,16 +6,16 @@
 
 - 技术栈：Swift + SwiftUI（Apple 原生，零第三方依赖）
 - 目标：打磨产品体验，持续优化 + 新增功能，做一款好用的 Mac 办公工具
-- 平台：仅 Mac，不做 iOS/iPadOS
-- 开发方式：用户是 Swift 初学者，AI 全程指导教学，边学边做
+- 平台：仅 Mac
 
-## 语言要求
+### UI界面
+<img width="1071" height="674" alt="image" src="https://github.com/user-attachments/assets/2d35739e-9e41-426f-809c-dbe408036ff4" />
+<img width="1071" height="674" alt="image" src="https://github.com/user-attachments/assets/2920e417-c85c-47dc-8f0d-cc362b881b87" />
+<img width="1071" height="674" alt="image" src="https://github.com/user-attachments/assets/fc0aaac9-9bda-4767-bf7b-db67c319b210" />
 
-**使用中文**，代码注释也使用中文。
 
 ## 项目标准文件
 
-每次开发前，先查阅对应的标准文件：
 | 文件 | 路径 | 查阅时机 |
 |------|------|---------|
 | 项目需求书 | [docs/01-项目需求书.md](docs/01-项目需求书.md) | 不确定功能范围时 |
@@ -83,6 +83,4 @@
 - 标准文档：4 份（docs/）
 - 开发日志：8 份（devlog/）
 
-### UI界面
-<img width="1071" height="674" alt="image" src="https://github.com/user-attachments/assets/2d35739e-9e41-426f-809c-dbe408036ff4" />
 
