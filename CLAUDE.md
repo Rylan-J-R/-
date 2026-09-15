@@ -82,4 +82,7 @@
 - Swift 源文件：58 个（13 Service + 9 ViewModel + 25 View + 10 Model/Util + 1 App 入口）
 - 标准文档：4 份（docs/）
 - 开发日志：8 份（devlog/）
-- 编译状态：**macOS 零错误通过** ✅
+
+### UI界面
+<img width="1071" height="674" alt="image" src="https://github.com/user-attachments/assets/2d35739e-9e41-426f-809c-dbe408036ff4" />
+
